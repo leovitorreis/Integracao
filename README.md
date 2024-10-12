@@ -17,7 +17,6 @@ O banco de dados é composto pelas seguintes tabelas:
 
 ## Como Usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+1. Clone o repositório
+2. Certifique-se de ter o Python e SQLite instalados em sua máquina.
+3. Execute o script 'main.py' para criar o banco de dados e inserir dados de exemplo.
